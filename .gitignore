@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+chroma_db/
+k8s-website/
+python-installer.exe
+.env
